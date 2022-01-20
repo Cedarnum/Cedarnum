@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cedarnum
-- 👀 I’m interested in UNITY
+- 👀 I’m interested in UNITY, Android, C#, JAVA, Python ...
 - 🌱 I’m currently learning UNITY
 - 📫 How to reach me ...
 
